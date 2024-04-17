@@ -89,7 +89,7 @@ export default function UpdateForm() {
         </div>
         <div className="mb-3">
           <label htmlFor="licenseNumber" className="form-label">
-            License Number
+           ID
           </label>
           <input
             type="text"
